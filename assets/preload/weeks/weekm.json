@@ -1,0 +1,40 @@
+{
+  "songs": [
+    [
+      "tutre",
+      "marcossas",
+      [
+        255,
+        255,
+        255
+      ]
+    ],
+    [
+      "welobe",
+      "marcossas",
+      [
+        255,
+        255,
+        255
+      ]
+    ]
+  ],
+  "hideFreeplay": false,
+  "weekBackground": "blue",
+  "difficulties": "hard",
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "storyName": "hagan sus",
+  "weekName": "Custom Week",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "hideStoryMode": false,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}
