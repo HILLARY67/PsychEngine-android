@@ -1,0 +1,79 @@
+{
+  "song": {
+    "speed": 2.6,
+    "stage": "calle",
+    "player1": "bf",
+    "player2": "marcossas",
+    "player3": null,
+    "events": [
+      [
+        0,
+        [
+          [
+            "Add Camera Zoom",
+            "",
+            "1"
+          ]
+        ]
+      ],
+      [
+        2200,
+        [
+          [
+            "Add Camera Zoom",
+            "",
+            "0,2"
+          ]
+        ]
+      ],
+      [
+        4175,
+        [
+          [
+            "Add Camera Zoom",
+            "",
+            "0,3"
+          ]
+        ]
+      ],
+      [
+        6150,
+        [
+          [
+            "Add Camera Zoom",
+            "",
+            "0,4"
+          ]
+        ]
+      ],
+      [
+        11677.8523489933,
+        [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      ],
+      [
+        139732.662192394,
+        [
+          [
+            "Flash Camera",
+            "2",
+            ""
+          ]
+        ]
+      ]
+    ],
+    "notes": [],
+    "splashSkin": "noteSplashes",
+    "validScore": false,
+    "gfVersion": "gf",
+    "bpm": 149,
+    "arrowSkin": "",
+    "needsVoices": true,
+    "song": "welobe"
+  }
+}
